@@ -7,4 +7,4 @@ Additionally, a “Next” button is provided to allow users to move on to the n
 
 This structure allows for a wide range of enhancements and features, such as score tracking, timed quizzes, randomized question order, and visual feedback on correct or incorrect answers. The modularity of the code also makes it scalable, meaning more complex features like user authentication, quiz categories, or performance analytics can be added later. Overall, this HTML layout serves as a strong base for building an engaging quiz app that is not only functional but also extensible and customizable. It represents the fundamental components needed for interactive learning or entertainment, emphasizing usability and clean design. With the right supporting scripts and styles, this quiz app can become a powerful tool for knowledge sharing and assessment across different audiences and contexts.
 # output
-![image](https://github.com/user-attachments/assets/862ed567-f6dd-4eb9-b72c-30ef3e3fbc2e)
+![image](https://github.com/user-attachments/assets/5cd96a8f-b6f5-40c5-96f1-38b643d83715)
